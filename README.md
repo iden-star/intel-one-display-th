@@ -1,1 +1,1 @@
-# intel-one-display-th
+# intel-one-display-th (For general, Non-commercial use.)
